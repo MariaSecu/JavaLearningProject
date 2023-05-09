@@ -1,4 +1,6 @@
-package md.Maria;public class Main {
+package md.Maria;
+
+public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
