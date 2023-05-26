@@ -39,3 +39,8 @@ The applied knowledge include:
 5. Classes
 6. Variables
 7. Main method
+
+*Operation and cyclic functions*
+Contains 8 classes that are used to:
+1. Practicing arithmetic operations in java
+2. Practice of cyclic and control instructions
